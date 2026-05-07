@@ -1,10 +1,14 @@
 # Notes App
 
+This is an old challenge I made
+
 ## Requirements
 
 ### Runtimes and Tools
-- NodeJS v25.2.1
-- npm v11.11.0
+- NodeJS
+- npm
+- Docker
+- Docker Compose
 
 ## Installation
 1. Clone the repository.
